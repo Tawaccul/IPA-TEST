@@ -1,0 +1,18 @@
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CollectionReference+WriteEncodable.swift":
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/CollectionReference+WriteEncodable.dia"
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/CollectionReference+WriteEncodable.d"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/CollectionReference+WriteEncodable.swiftconstvalues"
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/CollectionReference+WriteEncodable.swiftdeps"
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/CollectionReference+WriteEncodable.o"
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentID.swift":
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentID.d"
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentID.swiftdeps"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentID.swiftconstvalues"
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentID.o"
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentID.dia"
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+Codable.swift":
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentReference+Codable.d"
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentReference+Codable.swiftdeps"
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentReference+Codable.dia"
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentReference+Codable.o"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentReference+Codable.swiftconstvalues"

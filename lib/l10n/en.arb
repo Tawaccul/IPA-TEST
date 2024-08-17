@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "statistics": "Statistics",
+  "notifications": "Notifications",
+  "vibration": "Vibration",
+  "changeLanguage": "Change Language",
+  "about": "About",
+  "logout": "Logout"
+}

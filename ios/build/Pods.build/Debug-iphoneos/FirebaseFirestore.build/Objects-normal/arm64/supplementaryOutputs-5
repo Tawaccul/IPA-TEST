@@ -1,0 +1,18 @@
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQueryObservable.swift":
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.o"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftconstvalues"
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.dia"
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftdeps"
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.d"
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/Firestore+AsyncAwait.swift":
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftdeps"
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.d"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftconstvalues"
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.dia"
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.o"
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQuery.swift":
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftconstvalues"
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.o"
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.d"
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftdeps"
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.dia"

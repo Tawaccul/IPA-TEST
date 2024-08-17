@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Modules/module.modulemap \
+  /Users/tawaccul/quranapp/ios/Pods/BoringSSL-GRPC/src/crypto/x509/i2d_pr.c \
+  /Users/tawaccul/quranapp/ios/Pods/Target\ Support\ Files/BoringSSL-GRPC/BoringSSL-GRPC-prefix.pch \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/asn1.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/base.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/is_boringssl.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/opensslconf.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/target.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/boringssl_prefix_symbols.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/bio.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/buffer.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/buf.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/err.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/ex_data.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/stack.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/thread.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/bn.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/dsa.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/ec_key.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/ec.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/engine.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/evp.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/evp_errors.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/aead.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/base64.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/cipher.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/digest.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/nid.h \
+  /Users/tawaccul/quranapp/build/ios/Debug-iphonesimulator/BoringSSL-GRPC/openssl_grpc.framework/Headers/rsa.h

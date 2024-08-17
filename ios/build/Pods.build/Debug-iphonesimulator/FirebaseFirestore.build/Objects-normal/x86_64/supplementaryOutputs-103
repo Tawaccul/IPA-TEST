@@ -1,0 +1,18 @@
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampEncodingStrategy.swift":
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.swiftdeps"
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.dia"
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.o"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.swiftconstvalues"
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/TimestampEncodingStrategy.d"
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Transaction+WriteEncodable.swift":
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.dia"
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.o"
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.swiftdeps"
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.d"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/Transaction+WriteEncodable.swiftconstvalues"
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/WriteBatch+WriteEncodable.swift":
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.swiftdeps"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.swiftconstvalues"
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.o"
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.d"
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/WriteBatch+WriteEncodable.dia"

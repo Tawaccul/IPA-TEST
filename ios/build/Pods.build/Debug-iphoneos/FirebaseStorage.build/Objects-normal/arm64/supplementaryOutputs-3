@@ -1,0 +1,18 @@
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift":
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.o"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.swiftconstvalues"
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.d"
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.swiftdeps"
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.dia"
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift":
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.d"
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.swiftdeps"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.swiftconstvalues"
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.o"
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.dia"
+"/Users/tawaccul/quranapp/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift":
+  swift-dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageError.swiftdeps"
+  object: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageError.o"
+  diagnostics: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageError.dia"
+  const-values: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageError.swiftconstvalues"
+  dependencies: "/Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageError.d"

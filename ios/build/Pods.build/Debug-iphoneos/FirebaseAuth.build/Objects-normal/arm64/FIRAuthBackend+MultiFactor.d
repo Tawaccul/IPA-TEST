@@ -1,0 +1,40 @@
+dependencies: \
+  /Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseAuth.build/module.modulemap \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend+MultiFactor.m \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend+MultiFactor.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRFinalizeMFAEnrollmentRequest.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRIdentityToolkitRequest.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRequestConfiguration.h \
+  /Users/tawaccul/quranapp/ios/build/Pods.build/Debug-iphoneos/FirebaseAppCheckInterop.build/module.modulemap \
+  /Users/tawaccul/quranapp/ios/Pods/Target\ Support\ Files/FirebaseAppCheckInterop/FirebaseAppCheckInterop-umbrella.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAppCheckInterop/FirebaseAppCheck/Interop/Public/FirebaseAppCheckInterop/FIRAppCheckInterop.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAppCheckInterop/FirebaseAppCheck/Interop/Public/FirebaseAppCheckInterop/FIRAppCheckProtocol.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAppCheckInterop/FirebaseAppCheck/Interop/Public/FirebaseAppCheckInterop/FIRAppCheckTokenProtocol.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAppCheckInterop/FirebaseAppCheck/Interop/Public/FirebaseAppCheckInterop/FIRAppCheckTokenResultInterop.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAppCheckInterop/FirebaseAppCheck/Interop/Public/FirebaseAppCheckInterop/FirebaseAppCheckInterop.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoFinalizeMFAPhoneRequestInfo.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/FIRAuthProto.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoFinalizeMFATOTPEnrollmentRequestInfo.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRFinalizeMFAEnrollmentResponse.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoFinalizeMFAPhoneResponseInfo.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoFinalizeMFATOTPEnrollmentResponseInfo.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRStartMFAEnrollmentRequest.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoStartMFAPhoneRequestInfo.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRAuthAppCredential.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoStartMFATOTPEnrollmentRequestInfo.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRStartMFAEnrollmentResponse.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoStartMFAPhoneResponseInfo.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoStartMFATOTPEnrollmentResponseInfo.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRFinalizeMFASignInRequest.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoFinalizeMFATOTPSignInRequestInfo.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRFinalizeMFASignInResponse.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRStartMFASignInRequest.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRStartMFASignInResponse.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Unenroll/FIRWithdrawMFARequest.h \
+  /Users/tawaccul/quranapp/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Unenroll/FIRWithdrawMFAResponse.h

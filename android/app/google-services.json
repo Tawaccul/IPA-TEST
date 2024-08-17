@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1070515814828",
+    "firebase_url": "https://quranapp-fc53b-default-rtdb.firebaseio.com",
+    "project_id": "quranapp-fc53b",
+    "storage_bucket": "quranapp-fc53b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070515814828:android:907ce5ceb9cd699d57ba09",
+        "android_client_info": {
+          "package_name": "quran.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZzM9JUmtu4qVNw2U_AKGqlBvXCW2ZJC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

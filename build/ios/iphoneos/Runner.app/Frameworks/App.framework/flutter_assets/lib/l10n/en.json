@@ -1,0 +1,24 @@
+{
+    "statistics": "Statistics",
+    "notifications": "Notifications",
+    "vibration": "Vibration",
+    "changeLanguage": "Change Language",
+    "about": "About",
+    "logout": "Logout",
+    "emptyList": "The list of learned words is empty",
+    "chooseLang": "Choose language",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "returnBack": "Are you sure you want to go back to the home screen? The level will be interrupted and you will have to start over",
+    "spendsTime": "Total study time",
+    "percentOfQuran": "Percentage of the entire Quran",
+    "studiedWords": "Words learned",
+    "congrag": "Congratulations!",
+    "completedWords": "Words learned",
+    "timeOfLevel": "Completed level in",
+    "rus": "Russian",
+    "en": "English",
+    "che": "Chechen"
+  }
+  

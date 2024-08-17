@@ -1,0 +1,101 @@
+name: quranapp
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  http: ^1.2.0
+  gestures: ^1.0.0
+  provider: ^6.1.1
+  audioplayers: ^6.0.0
+  bloc: ^8.1.2
+  animated_background: ^2.0.0
+  draggable_widget: ^2.0.0
+  vibration: ^1.8.4
+  curved_navigation_bar: ^1.0.3
+  get: ^4.6.6
+  web: ^0.5.1
+  characters: ^1.3.0
+  forge2d: ^0.13.0
+  line_awesome_flutter: ^3.0.1
+  dotted_border: ^2.1.0
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  firebase_database: ^11.0.1
+  shared_preferences: ^2.2.3
+  firebase_auth: ^5.1.0
+  loader_overlay: ^4.0.0
+  cloud_firestore: ^5.0.1
+  flutter_svg: ^2.0.10+1
+  firebase_core: ^3.1.1
+  archive: ^3.6.1
+  firebase_storage: ^12.1.1
+  cached_network_image: ^3.3.1
+  google_fonts: ^6.2.1
+  awesome_bottom_bar: ^1.2.4
+  icons_flutter: ^0.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.5
+  intl_utils: ^2.6.2
+  intl_translation: ^0.20.0
+
+flutter_intl:
+  enabled: true
+  
+flutter:
+  generate: true
+
+  uses-material-design: true
+
+  assets:
+    - assets/audios/correct1.mp3
+    - assets/audios/correct2.mp3
+    - assets/audios/click.mp3
+    - assets/images/pic2.png
+    - assets/images/pic3.jpg
+    - assets/images/pic4.png
+    - assets/images/Frame.png
+    - assets/images/Profile.png
+    - assets/images/logo.png
+    - assets/fonts/
+    - assets/locale/en.json
+    - assets/locale/ru.json
+    - assets/locale/che.json
+    - assets/images/study_icon.svg
+    - assets/images/Quran.png
+    - assets/images/chechnya.png
+    - assets/images/russia.png
+    - assets/images/united-kingdom.png
+    - assets/images/book.svg
+    - assets/images/home.svg
+    - assets/images/profile.svg
+    - assets/images/account.png
+    - assets/images/logotype.png
+    - lib/l10n/che.json
+    - lib/l10n/ru.json
+    - lib/l10n/en.json
+
+    
+  fonts:
+    - family: NotoSansArabic
+      fonts:
+        - asset: assets/fonts/NotoSansArabic_Condensed-Bold.ttf
+        - asset: assets/fonts/NotoSansArabic_Condensed-Regular.ttf
+        - asset: assets/fonts/NotoSansArabic_Condensed-SemiBold.ttf
+        - asset: assets/fonts/NotoSansArabic-Bold.ttf
+        - asset: assets/fonts/NotoSansArabic-Regular.ttf
+        - asset: assets/fonts/NotoSansArabic-SemiBold.ttf
+        - asset: assets/fonts/NotoSansArabic-Medium.ttf

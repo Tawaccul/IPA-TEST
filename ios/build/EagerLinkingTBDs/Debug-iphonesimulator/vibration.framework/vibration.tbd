@@ -1,0 +1,82 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s9vibration20VibrationPluginSwiftCN",
+            "_$s9vibration20VibrationPluginSwiftCACycfC",
+            "_$s9vibration20VibrationPluginSwiftC15supportsHaptics33_3A3257C106E34F8F40D4D9BC5ACEDFA2LLSbyF",
+            "_vibrationVersionNumber",
+            "_$s9vibration20VibrationPluginSwiftC8isDevice33_3A3257C106E34F8F40D4D9BC5ACEDFA2LLSbvpfi",
+            "_$s9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvau",
+            "_$s9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvMZ",
+            "_$s9vibration20VibrationPluginSwiftCMn",
+            "_$s9vibration20VibrationPluginSwiftC06cancelB033_3A3257C106E34F8F40D4D9BC5ACEDFA2LLyyF",
+            "_$s9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvpZ",
+            "_$s9vibration20VibrationPluginSwiftCMa",
+            "_$s9vibration20VibrationPluginSwiftC11playPattern33_3A3257C106E34F8F40D4D9BC5ACEDFA2LL6myArgs7patternySDySSypG_SaySiGtF",
+            "_$s9vibration20VibrationPluginSwiftC12createEngineyyFZ",
+            "_$s9vibration20VibrationPluginSwiftC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+            "_vibrationVersionString",
+            "_$s9vibration20VibrationPluginSwiftCfD",
+            "_$s9vibration20VibrationPluginSwiftC8register4withySo07FlutterC9Registrar_p_tFZ",
+            "_$s9vibration20VibrationPluginSwiftC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s9vibration20VibrationPluginSwiftCACycfc",
+            "_$s9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvsZ",
+            "_$s9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvgZ"
+          ],
+          "objc_class": [
+            "_TtC9vibration20VibrationPluginSwift",
+            "PodsDummy_vibration",
+            "VibrationPlugin"
+          ]
+        }
+      },
+      {
+        "data": {
+          "global": [
+            "_Swift51Overrides"
+          ]
+        },
+        "targets": [
+          "x86_64-ios-simulator"
+        ],
+        "text": {
+          "global": [
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE",
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/vibration.framework/vibration"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "13",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}
